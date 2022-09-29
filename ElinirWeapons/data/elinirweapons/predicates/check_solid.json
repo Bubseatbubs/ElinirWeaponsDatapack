@@ -1,0 +1,12 @@
+{
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "tag": "minecraft:solid_blocks"
+        }
+      }
+    }
+  }
+  

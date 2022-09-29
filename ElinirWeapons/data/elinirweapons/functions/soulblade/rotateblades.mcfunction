@@ -1,0 +1,1 @@
+execute at @s rotated as @p[tag=this] run tp @s ~ ~ ~ ~ ~

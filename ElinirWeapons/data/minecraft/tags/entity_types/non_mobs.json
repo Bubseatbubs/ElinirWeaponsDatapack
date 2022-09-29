@@ -1,0 +1,22 @@
+{
+    "values": [
+        "#minecraft:impact_projectiles",
+        "minecraft:ender_pearl",
+        "minecraft:painting",
+        "minecraft:item_frame",
+        "minecraft:fishing_bobber",
+        "minecraft:furnace_minecart",
+        "minecraft:tnt_minecart",
+        "minecraft:tnt",
+        "minecraft:shulker_bullet",
+        "minecraft:evoker_fangs",
+        "minecraft:falling_block",
+        "minecraft:boat",
+        "minecraft:armor_stand",
+        "minecraft:area_effect_cloud",
+        "minecraft:item",
+        "minecraft:lightning_bolt",
+        "minecraft:experience_bottle",
+        "minecraft:experience_orb"
+    ]
+}
